@@ -1,0 +1,608 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1EDDCF36189EBB3A004F6B3C /* DetailedClassCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EDDCF35189EBB3A004F6B3C /* DetailedClassCell.m */; };
+		1EDDCF38189EBF50004F6B3C /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1EDDCF37189EBF50004F6B3C /* MediaPlayer.framework */; };
+		3F1377EE189DE29700D1427C /* AllClassesDetailedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F1377ED189DE29700D1427C /* AllClassesDetailedViewController.m */; };
+		3F1FAFBC189EEC6D0033D56C /* AvenirLT-Heavy.eot in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFAC189EEC6D0033D56C /* AvenirLT-Heavy.eot */; };
+		3F1FAFBD189EEC6D0033D56C /* AvenirLT-Heavy.svg in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFAD189EEC6D0033D56C /* AvenirLT-Heavy.svg */; };
+		3F1FAFBE189EEC6D0033D56C /* AvenirLT-Heavy.woff in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFAE189EEC6D0033D56C /* AvenirLT-Heavy.woff */; };
+		3F1FAFBF189EEC6D0033D56C /* AvenirLT-Light.eot in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFAF189EEC6D0033D56C /* AvenirLT-Light.eot */; };
+		3F1FAFC0189EEC6D0033D56C /* AvenirLT-Light.svg in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB0189EEC6D0033D56C /* AvenirLT-Light.svg */; };
+		3F1FAFC1189EEC6D0033D56C /* AvenirLT-Light.woff in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB1189EEC6D0033D56C /* AvenirLT-Light.woff */; };
+		3F1FAFC2189EEC6D0033D56C /* AvenirLT-Medium.eot in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB2189EEC6D0033D56C /* AvenirLT-Medium.eot */; };
+		3F1FAFC3189EEC6D0033D56C /* AvenirLT-Medium.svg in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB3189EEC6D0033D56C /* AvenirLT-Medium.svg */; };
+		3F1FAFC4189EEC6D0033D56C /* AvenirLT-Medium.woff in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB4189EEC6D0033D56C /* AvenirLT-Medium.woff */; };
+		3F1FAFC5189EEC6D0033D56C /* AvenirLT-Roman.eot in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB5189EEC6D0033D56C /* AvenirLT-Roman.eot */; };
+		3F1FAFC6189EEC6D0033D56C /* AvenirLT-Roman.svg in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB6189EEC6D0033D56C /* AvenirLT-Roman.svg */; };
+		3F1FAFC7189EEC6D0033D56C /* AvenirLT-Roman.woff in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB7189EEC6D0033D56C /* AvenirLT-Roman.woff */; };
+		3F1FAFC8189EEC6D0033D56C /* AvenirLTPro-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB8189EEC6D0033D56C /* AvenirLTPro-Heavy.ttf */; };
+		3F1FAFC9189EEC6D0033D56C /* AvenirLTPro-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB9189EEC6D0033D56C /* AvenirLTPro-Light.ttf */; };
+		3F1FAFCA189EEC6D0033D56C /* AvenirLTPro-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFBA189EEC6D0033D56C /* AvenirLTPro-Medium.ttf */; };
+		3F1FAFCB189EEC6D0033D56C /* AvenirLTPro-Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFBB189EEC6D0033D56C /* AvenirLTPro-Roman.ttf */; };
+		3F457123189F049F009D5EE1 /* Object.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F457122189F049F009D5EE1 /* Object.png */; };
+		3F457126189F06DF009D5EE1 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F457125189F06DF009D5EE1 /* FirstViewController.m */; };
+		3FE811E8189DB414007C5E62 /* AllClassesCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE811E7189DB414007C5E62 /* AllClassesCell.m */; };
+		3FE811EB189DBBB5007C5E62 /* XMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE811EA189DBBB5007C5E62 /* XMLParser.m */; };
+		3FE811EE189DBCD2007C5E62 /* AllCoursesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE811ED189DBCD2007C5E62 /* AllCoursesViewController.m */; };
+		3FE811F1189DC3F3007C5E62 /* Courses_Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE811F0189DC3F3007C5E62 /* Courses_Model.m */; };
+		3FF5672C189F3999009DD460 /* FindMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FF5672B189F3999009DD460 /* FindMeViewController.m */; };
+		3FF5672E189F39B9009DD460 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FF5672D189F39B9009DD460 /* CoreLocation.framework */; };
+		CDFE4BE4189B1BFB00BF36B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4BE3189B1BFB00BF36B5 /* Foundation.framework */; };
+		CDFE4BE6189B1BFB00BF36B5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4BE5189B1BFB00BF36B5 /* CoreGraphics.framework */; };
+		CDFE4BE8189B1BFB00BF36B5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4BE7189B1BFB00BF36B5 /* UIKit.framework */; };
+		CDFE4BEE189B1BFB00BF36B5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CDFE4BEC189B1BFB00BF36B5 /* InfoPlist.strings */; };
+		CDFE4BF0189B1BFB00BF36B5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFE4BEF189B1BFB00BF36B5 /* main.m */; };
+		CDFE4BF4189B1BFB00BF36B5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFE4BF3189B1BFB00BF36B5 /* AppDelegate.m */; };
+		CDFE4BF7189B1BFC00BF36B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDFE4BF5189B1BFC00BF36B5 /* Main.storyboard */; };
+		CDFE4BFF189B1BFC00BF36B5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDFE4BFE189B1BFC00BF36B5 /* Images.xcassets */; };
+		CDFE4C06189B1BFC00BF36B5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4C05189B1BFC00BF36B5 /* XCTest.framework */; };
+		CDFE4C07189B1BFC00BF36B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4BE3189B1BFB00BF36B5 /* Foundation.framework */; };
+		CDFE4C08189B1BFC00BF36B5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4BE7189B1BFB00BF36B5 /* UIKit.framework */; };
+		CDFE4C10189B1BFC00BF36B5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CDFE4C0E189B1BFC00BF36B5 /* InfoPlist.strings */; };
+		CDFE4C12189B1BFC00BF36B5 /* ClimberTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFE4C11189B1BFC00BF36B5 /* ClimberTests.m */; };
+		CDFE4C1E189D90B300BF36B5 /* courseware_datasource.xml in Resources */ = {isa = PBXBuildFile; fileRef = CDFE4C1D189D90B300BF36B5 /* courseware_datasource.xml */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CDFE4C09189B1BFC00BF36B5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CDFE4BD8189B1BFB00BF36B5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CDFE4BDF189B1BFB00BF36B5;
+			remoteInfo = Climber;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1EDDCF34189EBB3A004F6B3C /* DetailedClassCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailedClassCell.h; sourceTree = "<group>"; };
+		1EDDCF35189EBB3A004F6B3C /* DetailedClassCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailedClassCell.m; sourceTree = "<group>"; };
+		1EDDCF37189EBF50004F6B3C /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		3F1377EC189DE29700D1427C /* AllClassesDetailedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllClassesDetailedViewController.h; sourceTree = "<group>"; };
+		3F1377ED189DE29700D1427C /* AllClassesDetailedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllClassesDetailedViewController.m; sourceTree = "<group>"; };
+		3F1FAFAC189EEC6D0033D56C /* AvenirLT-Heavy.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLT-Heavy.eot"; sourceTree = "<group>"; };
+		3F1FAFAD189EEC6D0033D56C /* AvenirLT-Heavy.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "AvenirLT-Heavy.svg"; sourceTree = "<group>"; };
+		3F1FAFAE189EEC6D0033D56C /* AvenirLT-Heavy.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLT-Heavy.woff"; sourceTree = "<group>"; };
+		3F1FAFAF189EEC6D0033D56C /* AvenirLT-Light.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLT-Light.eot"; sourceTree = "<group>"; };
+		3F1FAFB0189EEC6D0033D56C /* AvenirLT-Light.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "AvenirLT-Light.svg"; sourceTree = "<group>"; };
+		3F1FAFB1189EEC6D0033D56C /* AvenirLT-Light.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLT-Light.woff"; sourceTree = "<group>"; };
+		3F1FAFB2189EEC6D0033D56C /* AvenirLT-Medium.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLT-Medium.eot"; sourceTree = "<group>"; };
+		3F1FAFB3189EEC6D0033D56C /* AvenirLT-Medium.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "AvenirLT-Medium.svg"; sourceTree = "<group>"; };
+		3F1FAFB4189EEC6D0033D56C /* AvenirLT-Medium.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLT-Medium.woff"; sourceTree = "<group>"; };
+		3F1FAFB5189EEC6D0033D56C /* AvenirLT-Roman.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLT-Roman.eot"; sourceTree = "<group>"; };
+		3F1FAFB6189EEC6D0033D56C /* AvenirLT-Roman.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "AvenirLT-Roman.svg"; sourceTree = "<group>"; };
+		3F1FAFB7189EEC6D0033D56C /* AvenirLT-Roman.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLT-Roman.woff"; sourceTree = "<group>"; };
+		3F1FAFB8189EEC6D0033D56C /* AvenirLTPro-Heavy.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTPro-Heavy.ttf"; sourceTree = "<group>"; };
+		3F1FAFB9189EEC6D0033D56C /* AvenirLTPro-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTPro-Light.ttf"; sourceTree = "<group>"; };
+		3F1FAFBA189EEC6D0033D56C /* AvenirLTPro-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTPro-Medium.ttf"; sourceTree = "<group>"; };
+		3F1FAFBB189EEC6D0033D56C /* AvenirLTPro-Roman.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTPro-Roman.ttf"; sourceTree = "<group>"; };
+		3F457122189F049F009D5EE1 /* Object.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Object.png; sourceTree = "<group>"; };
+		3F457124189F06DF009D5EE1 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		3F457125189F06DF009D5EE1 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		3FE811E6189DB414007C5E62 /* AllClassesCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllClassesCell.h; sourceTree = "<group>"; };
+		3FE811E7189DB414007C5E62 /* AllClassesCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllClassesCell.m; sourceTree = "<group>"; };
+		3FE811E9189DBBB5007C5E62 /* XMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMLParser.h; sourceTree = "<group>"; };
+		3FE811EA189DBBB5007C5E62 /* XMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMLParser.m; sourceTree = "<group>"; };
+		3FE811EC189DBCD2007C5E62 /* AllCoursesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllCoursesViewController.h; sourceTree = "<group>"; };
+		3FE811ED189DBCD2007C5E62 /* AllCoursesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllCoursesViewController.m; sourceTree = "<group>"; };
+		3FE811EF189DC3F3007C5E62 /* Courses_Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Courses_Model.h; sourceTree = "<group>"; };
+		3FE811F0189DC3F3007C5E62 /* Courses_Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Courses_Model.m; sourceTree = "<group>"; };
+		3FF5672A189F3999009DD460 /* FindMeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FindMeViewController.h; sourceTree = "<group>"; };
+		3FF5672B189F3999009DD460 /* FindMeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FindMeViewController.m; sourceTree = "<group>"; };
+		3FF5672D189F39B9009DD460 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		CDFE4BE0189B1BFB00BF36B5 /* Climber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Climber.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDFE4BE3189B1BFB00BF36B5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		CDFE4BE5189B1BFB00BF36B5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		CDFE4BE7189B1BFB00BF36B5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		CDFE4BEB189B1BFB00BF36B5 /* Climber-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Climber-Info.plist"; sourceTree = "<group>"; };
+		CDFE4BED189B1BFB00BF36B5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CDFE4BEF189B1BFB00BF36B5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CDFE4BF1189B1BFB00BF36B5 /* Climber-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Climber-Prefix.pch"; sourceTree = "<group>"; };
+		CDFE4BF2189B1BFB00BF36B5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CDFE4BF3189B1BFB00BF36B5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CDFE4BF6189B1BFC00BF36B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CDFE4BFE189B1BFC00BF36B5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CDFE4C04189B1BFC00BF36B5 /* ClimberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClimberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDFE4C05189B1BFC00BF36B5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		CDFE4C0D189B1BFC00BF36B5 /* ClimberTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ClimberTests-Info.plist"; sourceTree = "<group>"; };
+		CDFE4C0F189B1BFC00BF36B5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CDFE4C11189B1BFC00BF36B5 /* ClimberTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClimberTests.m; sourceTree = "<group>"; };
+		CDFE4C1D189D90B300BF36B5 /* courseware_datasource.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = courseware_datasource.xml; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CDFE4BDD189B1BFB00BF36B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3FF5672E189F39B9009DD460 /* CoreLocation.framework in Frameworks */,
+				1EDDCF38189EBF50004F6B3C /* MediaPlayer.framework in Frameworks */,
+				CDFE4BE6189B1BFB00BF36B5 /* CoreGraphics.framework in Frameworks */,
+				CDFE4BE8189B1BFB00BF36B5 /* UIKit.framework in Frameworks */,
+				CDFE4BE4189B1BFB00BF36B5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDFE4C01189B1BFC00BF36B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDFE4C06189B1BFC00BF36B5 /* XCTest.framework in Frameworks */,
+				CDFE4C08189B1BFC00BF36B5 /* UIKit.framework in Frameworks */,
+				CDFE4C07189B1BFC00BF36B5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F1FAFCC189EF2540033D56C /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				3F1FAFAC189EEC6D0033D56C /* AvenirLT-Heavy.eot */,
+				3F1FAFAD189EEC6D0033D56C /* AvenirLT-Heavy.svg */,
+				3F1FAFAE189EEC6D0033D56C /* AvenirLT-Heavy.woff */,
+				3F1FAFAF189EEC6D0033D56C /* AvenirLT-Light.eot */,
+				3F1FAFB0189EEC6D0033D56C /* AvenirLT-Light.svg */,
+				3F1FAFB1189EEC6D0033D56C /* AvenirLT-Light.woff */,
+				3F1FAFB2189EEC6D0033D56C /* AvenirLT-Medium.eot */,
+				3F1FAFB3189EEC6D0033D56C /* AvenirLT-Medium.svg */,
+				3F1FAFB4189EEC6D0033D56C /* AvenirLT-Medium.woff */,
+				3F1FAFB5189EEC6D0033D56C /* AvenirLT-Roman.eot */,
+				3F1FAFB6189EEC6D0033D56C /* AvenirLT-Roman.svg */,
+				3F1FAFB7189EEC6D0033D56C /* AvenirLT-Roman.woff */,
+				3F1FAFB8189EEC6D0033D56C /* AvenirLTPro-Heavy.ttf */,
+				3F1FAFB9189EEC6D0033D56C /* AvenirLTPro-Light.ttf */,
+				3F1FAFBA189EEC6D0033D56C /* AvenirLTPro-Medium.ttf */,
+				3F1FAFBB189EEC6D0033D56C /* AvenirLTPro-Roman.ttf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
+		CDFE4BD7189B1BFB00BF36B5 = {
+			isa = PBXGroup;
+			children = (
+				3F457122189F049F009D5EE1 /* Object.png */,
+				3F1FAFCC189EF2540033D56C /* Fonts */,
+				CDFE4BE9189B1BFB00BF36B5 /* Climber */,
+				CDFE4C0B189B1BFC00BF36B5 /* ClimberTests */,
+				CDFE4BE2189B1BFB00BF36B5 /* Frameworks */,
+				CDFE4BE1189B1BFB00BF36B5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CDFE4BE1189B1BFB00BF36B5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CDFE4BE0189B1BFB00BF36B5 /* Climber.app */,
+				CDFE4C04189B1BFC00BF36B5 /* ClimberTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CDFE4BE2189B1BFB00BF36B5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3FF5672D189F39B9009DD460 /* CoreLocation.framework */,
+				1EDDCF37189EBF50004F6B3C /* MediaPlayer.framework */,
+				CDFE4BE3189B1BFB00BF36B5 /* Foundation.framework */,
+				CDFE4BE5189B1BFB00BF36B5 /* CoreGraphics.framework */,
+				CDFE4BE7189B1BFB00BF36B5 /* UIKit.framework */,
+				CDFE4C05189B1BFC00BF36B5 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CDFE4BE9189B1BFB00BF36B5 /* Climber */ = {
+			isa = PBXGroup;
+			children = (
+				3FE811E6189DB414007C5E62 /* AllClassesCell.h */,
+				3FE811E7189DB414007C5E62 /* AllClassesCell.m */,
+				3F1377EC189DE29700D1427C /* AllClassesDetailedViewController.h */,
+				3F1377ED189DE29700D1427C /* AllClassesDetailedViewController.m */,
+				3FE811EC189DBCD2007C5E62 /* AllCoursesViewController.h */,
+				3FE811ED189DBCD2007C5E62 /* AllCoursesViewController.m */,
+				CDFE4BF2189B1BFB00BF36B5 /* AppDelegate.h */,
+				CDFE4BF3189B1BFB00BF36B5 /* AppDelegate.m */,
+				3FE811EF189DC3F3007C5E62 /* Courses_Model.h */,
+				3FE811F0189DC3F3007C5E62 /* Courses_Model.m */,
+				CDFE4C1D189D90B300BF36B5 /* courseware_datasource.xml */,
+				1EDDCF34189EBB3A004F6B3C /* DetailedClassCell.h */,
+				1EDDCF35189EBB3A004F6B3C /* DetailedClassCell.m */,
+				CDFE4BFE189B1BFC00BF36B5 /* Images.xcassets */,
+				3F457124189F06DF009D5EE1 /* FirstViewController.h */,
+				3F457125189F06DF009D5EE1 /* FirstViewController.m */,
+				CDFE4BF5189B1BFC00BF36B5 /* Main.storyboard */,
+				3FF5672A189F3999009DD460 /* FindMeViewController.h */,
+				3FF5672B189F3999009DD460 /* FindMeViewController.m */,
+				CDFE4BEA189B1BFB00BF36B5 /* Supporting Files */,
+				3FE811E9189DBBB5007C5E62 /* XMLParser.h */,
+				3FE811EA189DBBB5007C5E62 /* XMLParser.m */,
+			);
+			path = Climber;
+			sourceTree = "<group>";
+		};
+		CDFE4BEA189B1BFB00BF36B5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CDFE4BEB189B1BFB00BF36B5 /* Climber-Info.plist */,
+				CDFE4BEC189B1BFB00BF36B5 /* InfoPlist.strings */,
+				CDFE4BEF189B1BFB00BF36B5 /* main.m */,
+				CDFE4BF1189B1BFB00BF36B5 /* Climber-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CDFE4C0B189B1BFC00BF36B5 /* ClimberTests */ = {
+			isa = PBXGroup;
+			children = (
+				CDFE4C11189B1BFC00BF36B5 /* ClimberTests.m */,
+				CDFE4C0C189B1BFC00BF36B5 /* Supporting Files */,
+			);
+			path = ClimberTests;
+			sourceTree = "<group>";
+		};
+		CDFE4C0C189B1BFC00BF36B5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CDFE4C0D189B1BFC00BF36B5 /* ClimberTests-Info.plist */,
+				CDFE4C0E189B1BFC00BF36B5 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CDFE4BDF189B1BFB00BF36B5 /* Climber */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CDFE4C15189B1BFC00BF36B5 /* Build configuration list for PBXNativeTarget "Climber" */;
+			buildPhases = (
+				CDFE4BDC189B1BFB00BF36B5 /* Sources */,
+				CDFE4BDD189B1BFB00BF36B5 /* Frameworks */,
+				CDFE4BDE189B1BFB00BF36B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Climber;
+			productName = Climber;
+			productReference = CDFE4BE0189B1BFB00BF36B5 /* Climber.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CDFE4C03189B1BFC00BF36B5 /* ClimberTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CDFE4C18189B1BFC00BF36B5 /* Build configuration list for PBXNativeTarget "ClimberTests" */;
+			buildPhases = (
+				CDFE4C00189B1BFC00BF36B5 /* Sources */,
+				CDFE4C01189B1BFC00BF36B5 /* Frameworks */,
+				CDFE4C02189B1BFC00BF36B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CDFE4C0A189B1BFC00BF36B5 /* PBXTargetDependency */,
+			);
+			name = ClimberTests;
+			productName = ClimberTests;
+			productReference = CDFE4C04189B1BFC00BF36B5 /* ClimberTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CDFE4BD8189B1BFB00BF36B5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = RIT;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = RIT;
+				TargetAttributes = {
+					CDFE4C03189B1BFC00BF36B5 = {
+						TestTargetID = CDFE4BDF189B1BFB00BF36B5;
+					};
+				};
+			};
+			buildConfigurationList = CDFE4BDB189B1BFB00BF36B5 /* Build configuration list for PBXProject "Climber" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CDFE4BD7189B1BFB00BF36B5;
+			productRefGroup = CDFE4BE1189B1BFB00BF36B5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CDFE4BDF189B1BFB00BF36B5 /* Climber */,
+				CDFE4C03189B1BFC00BF36B5 /* ClimberTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CDFE4BDE189B1BFB00BF36B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F1FAFBC189EEC6D0033D56C /* AvenirLT-Heavy.eot in Resources */,
+				3F1FAFBD189EEC6D0033D56C /* AvenirLT-Heavy.svg in Resources */,
+				3F1FAFBE189EEC6D0033D56C /* AvenirLT-Heavy.woff in Resources */,
+				3F1FAFBF189EEC6D0033D56C /* AvenirLT-Light.eot in Resources */,
+				3F1FAFC0189EEC6D0033D56C /* AvenirLT-Light.svg in Resources */,
+				3F1FAFC1189EEC6D0033D56C /* AvenirLT-Light.woff in Resources */,
+				3F1FAFC2189EEC6D0033D56C /* AvenirLT-Medium.eot in Resources */,
+				3F1FAFC3189EEC6D0033D56C /* AvenirLT-Medium.svg in Resources */,
+				3F1FAFC4189EEC6D0033D56C /* AvenirLT-Medium.woff in Resources */,
+				3F1FAFC5189EEC6D0033D56C /* AvenirLT-Roman.eot in Resources */,
+				3F1FAFC6189EEC6D0033D56C /* AvenirLT-Roman.svg in Resources */,
+				3F1FAFC7189EEC6D0033D56C /* AvenirLT-Roman.woff in Resources */,
+				3F1FAFC8189EEC6D0033D56C /* AvenirLTPro-Heavy.ttf in Resources */,
+				3F1FAFC9189EEC6D0033D56C /* AvenirLTPro-Light.ttf in Resources */,
+				3F1FAFCA189EEC6D0033D56C /* AvenirLTPro-Medium.ttf in Resources */,
+				3F1FAFCB189EEC6D0033D56C /* AvenirLTPro-Roman.ttf in Resources */,
+				CDFE4BFF189B1BFC00BF36B5 /* Images.xcassets in Resources */,
+				CDFE4BEE189B1BFB00BF36B5 /* InfoPlist.strings in Resources */,
+				CDFE4C1E189D90B300BF36B5 /* courseware_datasource.xml in Resources */,
+				CDFE4BF7189B1BFC00BF36B5 /* Main.storyboard in Resources */,
+				3F457123189F049F009D5EE1 /* Object.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDFE4C02189B1BFC00BF36B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDFE4C10189B1BFC00BF36B5 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CDFE4BDC189B1BFB00BF36B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3FE811F1189DC3F3007C5E62 /* Courses_Model.m in Sources */,
+				3F457126189F06DF009D5EE1 /* FirstViewController.m in Sources */,
+				3FE811EE189DBCD2007C5E62 /* AllCoursesViewController.m in Sources */,
+				1EDDCF36189EBB3A004F6B3C /* DetailedClassCell.m in Sources */,
+				CDFE4BF4189B1BFB00BF36B5 /* AppDelegate.m in Sources */,
+				3FF5672C189F3999009DD460 /* FindMeViewController.m in Sources */,
+				3F1377EE189DE29700D1427C /* AllClassesDetailedViewController.m in Sources */,
+				CDFE4BF0189B1BFB00BF36B5 /* main.m in Sources */,
+				3FE811E8189DB414007C5E62 /* AllClassesCell.m in Sources */,
+				3FE811EB189DBBB5007C5E62 /* XMLParser.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDFE4C00189B1BFC00BF36B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDFE4C12189B1BFC00BF36B5 /* ClimberTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CDFE4C0A189B1BFC00BF36B5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CDFE4BDF189B1BFB00BF36B5 /* Climber */;
+			targetProxy = CDFE4C09189B1BFC00BF36B5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CDFE4BEC189B1BFB00BF36B5 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDFE4BED189B1BFB00BF36B5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CDFE4BF5189B1BFC00BF36B5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDFE4BF6189B1BFC00BF36B5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CDFE4C0E189B1BFC00BF36B5 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDFE4C0F189B1BFC00BF36B5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CDFE4C13189B1BFC00BF36B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CDFE4C14189B1BFC00BF36B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CDFE4C16189B1BFC00BF36B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Climber/Climber-Prefix.pch";
+				INFOPLIST_FILE = "Climber/Climber-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		CDFE4C17189B1BFC00BF36B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Climber/Climber-Prefix.pch";
+				INFOPLIST_FILE = "Climber/Climber-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		CDFE4C19189B1BFC00BF36B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Climber.app/Climber";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Climber/Climber-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "ClimberTests/ClimberTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		CDFE4C1A189B1BFC00BF36B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Climber.app/Climber";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Climber/Climber-Prefix.pch";
+				INFOPLIST_FILE = "ClimberTests/ClimberTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CDFE4BDB189B1BFB00BF36B5 /* Build configuration list for PBXProject "Climber" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDFE4C13189B1BFC00BF36B5 /* Debug */,
+				CDFE4C14189B1BFC00BF36B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CDFE4C15189B1BFC00BF36B5 /* Build configuration list for PBXNativeTarget "Climber" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDFE4C16189B1BFC00BF36B5 /* Debug */,
+				CDFE4C17189B1BFC00BF36B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CDFE4C18189B1BFC00BF36B5 /* Build configuration list for PBXNativeTarget "ClimberTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDFE4C19189B1BFC00BF36B5 /* Debug */,
+				CDFE4C1A189B1BFC00BF36B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CDFE4BD8189B1BFB00BF36B5 /* Project object */;
+}

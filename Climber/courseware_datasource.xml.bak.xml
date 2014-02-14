@@ -1,0 +1,597 @@
+﻿ <courseware>
+    <course>
+        <name>Rock Climbing for Beginners</name>
+        <description>Description goes here</description>
+        <publisher>vooktv</publisher>
+        <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+        <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+        <publisher_website_url>http://www.vook.com/</publisher_website_url>
+            <lesson_info>
+                <serial>1.1</serial>
+                <lesson_name>Introduction to Rock Climbing</lesson_name>
+                <url>http://www.youtube.com/embed/gLfvk2SSj1c</url>
+            </lesson_info>
+            <lesson_info>
+                <serial>1.2</serial>
+                <lesson_name>Rock Climbing Gear</lesson_name>
+                <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+            </lesson_info>
+            <lesson_info>
+                <serial>1.3</serial>
+                <lesson_name>Being The Climber</lesson_name>
+                <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+              </lesson_info>
+              <lesson_info>
+                  <serial>1.4</serial>
+                  <lesson_name>Setting Up As The Belayer</lesson_name>
+                  <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+              </lesson_info>
+              <lesson_info>
+                  <serial>1.5</serial>
+                  <lesson_name>Climbing Techniques 1</lesson_name>
+                  <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+              </lesson_info>
+              <lesson_info>
+                  <serial>1.6</serial>
+                  <lesson_name>Climbing Techniques 2</lesson_name>
+                  <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+              </lesson_info>
+              <lesson_info>
+                  <serial>1.7</serial>
+                  <lesson_name>Bouldering</lesson_name>
+                  <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+              </lesson_info>
+              <lesson_info>
+                  <serial>1.8</serial>
+                  <lesson_name>Lead Climbing</lesson_name>
+                  <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+              </lesson_info>
+    </course>
+    
+    <course>
+        <name>Rock Climbing for Beginners</name>
+        <description>Description goes here</description>
+        <publisher>vooktv</publisher>
+        <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg</image>
+        <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+        <publisher_website_url>http://www.vook.com/</publisher_website_url>
+        <lesson_info>
+            <serial>1.1</serial>
+            <lesson_name>Introduction to Rock Climbing</lesson_name>
+            <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.2</serial>
+            <lesson_name>Rock Climbing Gear</lesson_name>
+            <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.3</serial>
+            <lesson_name>Being The Climber</lesson_name>
+            <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.4</serial>
+            <lesson_name>Setting Up As The Belayer</lesson_name>
+            <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.5</serial>
+            <lesson_name>Climbing Techniques 1</lesson_name>
+            <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.6</serial>
+            <lesson_name>Climbing Techniques 2</lesson_name>
+            <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.7</serial>
+            <lesson_name>Bouldering</lesson_name>
+            <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.8</serial>
+            <lesson_name>Lead Climbing</lesson_name>
+            <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+        </lesson_info>
+    </course>
+    
+    <course>
+        <name>Rock Climbing for Beginners</name>
+        <description>Description goes here</description>
+        <publisher>vooktv</publisher>
+        <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+        <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+        <publisher_website_url>http://www.vook.com/</publisher_website_url>
+        <lesson_info>
+            <serial>1.1</serial>
+            <lesson_name>Introduction to Rock Climbing</lesson_name>
+            <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.2</serial>
+            <lesson_name>Rock Climbing Gear</lesson_name>
+            <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.3</serial>
+            <lesson_name>Being The Climber</lesson_name>
+            <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.4</serial>
+            <lesson_name>Setting Up As The Belayer</lesson_name>
+            <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.5</serial>
+            <lesson_name>Climbing Techniques 1</lesson_name>
+            <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.6</serial>
+            <lesson_name>Climbing Techniques 2</lesson_name>
+            <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.7</serial>
+            <lesson_name>Bouldering</lesson_name>
+            <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+        </lesson_info>
+        <lesson_info>
+            <serial>1.8</serial>
+            <lesson_name>Lead Climbing</lesson_name>
+            <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+        </lesson_info>
+    </course>
+
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+<course>
+    <name>Rock Climbing for Beginners</name>
+    <description>Description goes here</description>
+    <publisher>vooktv</publisher>
+    <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/1.jpg?v=770d28</image>
+    <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+    <publisher_website_url>http://www.vook.com/</publisher_website_url>
+    <lesson_info>
+        <serial>1.1</serial>
+        <lesson_name>Introduction to Rock Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=gLfvk2SSj1c</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.2</serial>
+        <lesson_name>Rock Climbing Gear</lesson_name>
+        <url>http://www.youtube.com/watch?v=tXwV0YD222g</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.3</serial>
+        <lesson_name>Being The Climber</lesson_name>
+        <url>http://www.youtube.com/watch?v=QfTIUKyqCWc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.4</serial>
+        <lesson_name>Setting Up As The Belayer</lesson_name>
+        <url>http://www.youtube.com/watch?v=m-FbtppVC7w</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.5</serial>
+        <lesson_name>Climbing Techniques 1</lesson_name>
+        <url>http://www.youtube.com/watch?v=jbIDnMmSLsc</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.6</serial>
+        <lesson_name>Climbing Techniques 2</lesson_name>
+        <url>http://www.youtube.com/watch?v=gkMngYYadjE</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.7</serial>
+        <lesson_name>Bouldering</lesson_name>
+        <url>http://www.youtube.com/watch?v=ddSTXPZuff8</url>
+    </lesson_info>
+    <lesson_info>
+        <serial>1.8</serial>
+        <lesson_name>Lead Climbing</lesson_name>
+        <url>http://www.youtube.com/watch?v=q4rVY3sLQqA</url>
+    </lesson_info>
+</course>
+
+</courseware>

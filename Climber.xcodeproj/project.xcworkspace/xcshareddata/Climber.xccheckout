@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A94E67D1-E9DA-458D-A659-9205A1AD526D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Climber</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC185BBA-1E65-479A-846C-80B865C328AB</key>
+		<string>https://github.com/hds6825/Climber.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Climber.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC185BBA-1E65-479A-846C-80B865C328AB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hds6825/Climber.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC185BBA-1E65-479A-846C-80B865C328AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC185BBA-1E65-479A-846C-80B865C328AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Climber</string>
+		</dict>
+	</array>
+</dict>
+</plist>

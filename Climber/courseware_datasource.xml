@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <courseware>
+    <course>
+        <name>Rock Climbing for Beginners</name>
+        <description>Are you ready to ROCK? This Vook mashes top-notch instruction with amazing videos to get you climbing in no time.</description>
+        <publisher>vooktv</publisher>
+        <image>http://i1.ytimg.com/i/_j6nnmM-LIVtVwwHj5aOUg/mq1.jpg</image>
+        <publisher_youtube_channel>http://www.youtube.com/user/vooktv?feature=watch</publisher_youtube_channel>
+        <publisher_website_url>http://www.vook.com/</publisher_website_url>
+        <total_lessons>8 lessons  ...  </total_lessons>
+        <total_time>24 minutes</total_time>
+            <lesson_info>
+                <serial>1.</serial>
+                <lesson_name>Introduction to Rock Climbing</lesson_name>
+                <url>http://www.youtube.com/embed/gLfvk2SSj1c</url>
+                <thumbnail_image>http://img.youtube.com/vi/gLfvk2SSj1c/0.jpg</thumbnail_image>
+                <time>2min 18secs</time>
+            </lesson_info>
+            <lesson_info>
+                <serial>2.</serial>
+                <lesson_name>Rock Climbing Gear</lesson_name>
+                <url>http://www.youtube.com/embed/tXwV0YD222g</url>
+                <thumbnail_image>http://img.youtube.com/vi/tXwV0YD222g/0.jpg</thumbnail_image>
+                <time>3min 19secs</time>
+            </lesson_info>
+            <lesson_info>
+                <serial>3.</serial>
+                <lesson_name>Being The Climber</lesson_name>
+                <url>http://www.youtube.com/embed/QfTIUKyqCWc</url>
+                <thumbnail_image>http://img.youtube.com/vi/QfTIUKyqCWc/0.jpg</thumbnail_image>
+                <time>3min 23secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>4.</serial>
+                  <lesson_name>Setting Up As The Belayer</lesson_name>
+                  <url>http://www.youtube.com/embed/m-FbtppVC7w</url>
+                  <thumbnail_image>http://img.youtube.com/vi/m-FbtppVC7w/0.jpg</thumbnail_image>
+                  <time>3min 48secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>5.</serial>
+                  <lesson_name>Climbing Techniques 1</lesson_name>
+                  <url>http://www.youtube.com/embed/jbIDnMmSLsc</url>
+                  <thumbnail_image>http://img.youtube.com/vi/jbIDnMmSLsc/0.jpg</thumbnail_image>
+                  <time>3min 27secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>6.</serial>
+                  <lesson_name>Climbing Techniques 2</lesson_name>
+                  <url>http://www.youtube.com/embed/gkMngYYadjE</url>
+                  <thumbnail_image>http://img.youtube.com/vi/gkMngYYadjE/0.jpg</thumbnail_image>
+                  <time>3min 40secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>7.</serial>
+                  <lesson_name>Bouldering</lesson_name>
+                  <url>http://www.youtube.com/embed/ddSTXPZuff8</url>
+                  <thumbnail_image>http://img.youtube.com/vi/ddSTXPZuff8/0.jpg</thumbnail_image>
+                  <time>2min 46secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>8.</serial>
+                  <lesson_name>Lead Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/q4rVY3sLQqA</url>
+                  <thumbnail_image>http://img.youtube.com/vi/q4rVY3sLQqA/0.jpg</thumbnail_image>
+                  <time>2min 26secs</time>
+              </lesson_info>
+    </course>
+    
+    <course>
+        <name>How to Rock Climb</name>
+        <description>In these videos, you'll learn all the basics -- how to grip indoor climbing holds; how to set up a top-rope belay and much more.</description>
+        <publisher>Howcast</publisher>
+        <image>https://yt3.ggpht.com/-_jljTUGrHTI/AAAAAAAAAAI/AAAAAAAAAAA/nUvtiRI96PA/s48-c-k-no/photo.jpg</image>
+        <publisher_youtube_channel>http://www.youtube.com/user/Howcast?feature=watch</publisher_youtube_channel>
+        <publisher_website_url>http://www.howcast.com/</publisher_website_url>
+        <total_lessons>35 lessons  ...  </total_lessons>
+        <total_time>24 minutes</total_time>
+            <lesson_info>
+                <serial>1.</serial>
+                <lesson_name>Different Types of Indoor Climbing</lesson_name>
+                <url>http://www.youtube.com/embed/QlZ7sMGavw4</url>
+                <thumbnail_image>http://img.youtube.com/vi/QlZ7sMGavw4/0.jpg</thumbnail_image>
+                <time>2min 16secs</time>
+            </lesson_info>
+            <lesson_info>
+                <serial>2.</serial>
+                <lesson_name>5 Fundamentals of Indoor Rock Climbing</lesson_name>
+                <url>http://www.youtube.com/embed/30y8Uy0B_uk</url>
+                <thumbnail_image>http://img.youtube.com/vi/30y8Uy0B_uk/0.jpg</thumbnail_image>
+                <time>2min 53secs</time>
+            </lesson_info>
+            <lesson_info>
+                <serial>3.</serial>
+                <lesson_name>How to Grip Indoor Climbing Holds</lesson_name>
+                <url>http://www.youtube.com/embed/1IihoA3e0Kw</url>
+                <thumbnail_image>http://img.youtube.com/vi/1IihoA3e0Kw/0.jpg</thumbnail_image>
+                <time>2min 30secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>4.</serial>
+                  <lesson_name>How to use Chalk for Indoor Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/K6F_pKdIOlo</url>
+                  <thumbnail_image>http://img.youtube.com/vi/K6F_pKdIOlo/0.jpg</thumbnail_image>
+                  <time>1min 12secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>5.</serial>
+                  <lesson_name>How to fit a climbing harness</lesson_name>
+                  <url>http://www.youtube.com/embed/HIb1qPfz4Lo</url>
+                  <thumbnail_image>http://img.youtube.com/vi/HIb1qPfz4Lo/0.jpg</thumbnail_image>
+                  <time>1min 43secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>6.</serial>
+                  <lesson_name>How to tie figure 8 follow-through knot</lesson_name>
+                  <url>http://www.youtube.com/embed/tFffbkXSgNI</url>
+                  <thumbnail_image>http://img.youtube.com/vi/tFffbkXSgNI/0.jpg</thumbnail_image>
+                  <time>4min 11secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>7.</serial>
+                  <lesson_name>How to set up a top-rope belay</lesson_name>
+                  <url>http://www.youtube.com/embed/beVw41NwevU</url>
+                  <thumbnail_image>http://img.youtube.com/vi/beVw41NwevU/0.jpg</thumbnail_image>
+                  <time>1min 56secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>8.</serial>
+                  <lesson_name>How to use proper top-rope belay method</lesson_name>
+                  <url>http://www.youtube.com/embed/w5ZT9M9m_2Y</url>
+                  <thumbnail_image>http://img.youtube.com/vi/w5ZT9M9m_2Y/0.jpg</thumbnail_image>
+                  <time>1min 37secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>9.</serial>
+                  <lesson_name>How to Lower Climber in Top-Rope Belay</lesson_name>
+                  <url>http://www.youtube.com/embed/ePAc9xK9fac</url>
+                  <thumbnail_image>http://img.youtube.com/vi/ePAc9xK9fac/0.jpg</thumbnail_image>
+                  <time>2min 06secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>10.</serial>
+                  <lesson_name>Using Commands before Top-Rope Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/CrxgWU2BFBM</url>
+                  <thumbnail_image>http://img.youtube.com/vi/CrxgWU2BFBM/0.jpg</thumbnail_image>
+                  <time>1min 07secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>11.</serial>
+                  <lesson_name>Using Commands during Top-Rope Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/Y3sE9lz7eVA</url>
+                  <thumbnail_image>http://img.youtube.com/vi/Y3sE9lz7eVA/0.jpg</thumbnail_image>
+                  <time>1min 05secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>12.</serial>
+                  <lesson_name>How to use an Auto-Belay Device</lesson_name>
+                  <url>http://www.youtube.com/embed/PJdE8Ui2eno</url>
+                  <thumbnail_image>http://img.youtube.com/vi/PJdE8Ui2eno/0.jpg</thumbnail_image>
+                  <time>3min 04secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>13.</serial>
+                  <lesson_name>How to Clip on Lead for Indoor Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/k7MXH55q28U</url>
+                  <thumbnail_image>http://img.youtube.com/vi/k7MXH55q28U/0.jpg</thumbnail_image>
+                  <time>3min 10secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>14.</serial>
+                  <lesson_name>How to Lead Belay for Indoor Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/qDaXVAFFSOw</url>
+                  <thumbnail_image>http://img.youtube.com/vi/qDaXVAFFSOw/0.jpg</thumbnail_image>
+                  <time>2min 07secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>15.</serial>
+                  <lesson_name>How to Take and Catch a Lead Fall</lesson_name>
+                  <url>http://www.youtube.com/embed/llX04Y8UkeY</url>
+                  <thumbnail_image>http://img.youtube.com/vi/llX04Y8UkeY/0.jpg</thumbnail_image>
+                  <time>3min 25secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>16.</serial>
+                  <lesson_name>5 Tips for Lead Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/YZJZ_poMdoI</url>
+                  <thumbnail_image>http://img.youtube.com/vi/YZJZ_poMdoI/0.jpg</thumbnail_image>
+                  <time>3min 59secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>17.</serial>
+                  <lesson_name>How to Spot for Indoor Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/XJUUXv2NeVE</url>
+                  <thumbnail_image>http://img.youtube.com/vi/XJUUXv2NeVE/0.jpg</thumbnail_image>
+                  <time>1min 42secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>18.</serial>
+                  <lesson_name>How to Use Heel and Toe Hooks</lesson_name>
+                  <url>http://www.youtube.com/embed/49vEno40-n8</url>
+                  <thumbnail_image>http://img.youtube.com/vi/49vEno40-n8/0.jpg</thumbnail_image>
+                  <time>3min 01secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>19.</serial>
+                  <lesson_name>5 Advanced Bouldering Techniques</lesson_name>
+                  <url>http://www.youtube.com/embed/oSj9IbDiWks</url>
+                  <thumbnail_image>http://img.youtube.com/vi/oSj9IbDiWks/0.jpg</thumbnail_image>
+                  <time>4min 10secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>20.</serial>
+                  <lesson_name>Static vs. Dynamic Movement</lesson_name>
+                  <url>http://www.youtube.com/embed/lfH_S2LTEXA</url>
+                  <thumbnail_image>http://img.youtube.com/vi/lfH_S2LTEXA/0.jpg</thumbnail_image>
+                  <time>3min 39secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>21.</serial>
+                  <lesson_name>How to Do a Dyno in Indoor Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/9ZQY-ZfimYo</url>
+                  <thumbnail_image>http://img.youtube.com/vi/9ZQY-ZfimYo/0.jpg</thumbnail_image>
+                  <time>2min 53secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>22.</serial>
+                  <lesson_name>6 Bouldering Safety Tips</lesson_name>
+                  <url>http://www.youtube.com/embed/Cy1x5_jfTv8</url>
+                  <thumbnail_image>http://img.youtube.com/vi/Cy1x5_jfTv8/0.jpg</thumbnail_image>
+                  <time>2min 13secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>23.</serial>
+                  <lesson_name>Indoor Climbing Safety and Etiquette</lesson_name>
+                  <url>http://www.youtube.com/embed/XQeuNGXtd7w</url>
+                  <thumbnail_image>http://img.youtube.com/vi/XQeuNGXtd7w/0.jpg</thumbnail_image>
+                  <time>4min 07secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>24.</serial>
+                  <lesson_name>Indoor Rock Climbing Sequencing</lesson_name>
+                  <url>http://www.youtube.com/embed/RuwX-K0ckRk</url>
+                  <thumbnail_image>http://img.youtube.com/vi/RuwX-K0ckRk/0.jpg</thumbnail_image>
+                  <time>2min 13secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>25.</serial>
+                  <lesson_name>How to Understand Climbing Grades</lesson_name>
+                  <url>http://www.youtube.com/embed/CbEuDamWKX4</url>
+                  <thumbnail_image>http://img.youtube.com/vi/CbEuDamWKX4/0.jpg</thumbnail_image>
+                  <time>3min 03secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>26.</serial>
+                  <lesson_name>Solving Problems Based on Body Type</lesson_name>
+                  <url>http://www.youtube.com/embed/fY2IeYSxY4U</url>
+                  <thumbnail_image>http://img.youtube.com/vi/fY2IeYSxY4U/0.jpg</thumbnail_image>
+                  <time>3min 06secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>27.</serial>
+                  <lesson_name>How to Dress for Indoor Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/jVM8v6uJx8c</url>
+                  <thumbnail_image>http://img.youtube.com/vi/jVM8v6uJx8c/0.jpg</thumbnail_image>
+                  <time>1min 26secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>28.</serial>
+                  <lesson_name>Best Shoes for Indoor Climbing</lesson_name>
+                  <url>http://www.youtube.com/embed/DHbfhfoZG58</url>
+                  <thumbnail_image>http://img.youtube.com/vi/DHbfhfoZG58/0.jpg</thumbnail_image>
+                  <time>3min 52secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>29.</serial>
+                  <lesson_name>How to Pick the Right Harness</lesson_name>
+                  <url>http://www.youtube.com/embed/83fa42mHGfk</url>
+                  <thumbnail_image>http://img.youtube.com/vi/83fa42mHGfk/0.jpg</thumbnail_image>
+                  <time>1min 33secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>30.</serial>
+                  <lesson_name>How to Pick the Right Belay Device</lesson_name>
+                  <url>http://www.youtube.com/embed/Q0cVnZZliOg</url>
+                  <thumbnail_image>http://img.youtube.com/vi/Q0cVnZZliOg/0.jpg</thumbnail_image>
+                  <time>2min 24secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>31.</serial>
+                  <lesson_name>How to Take and Catch a Lead Fall</lesson_name>
+                  <url>http://www.youtube.com/embed/llX04Y8UkeY</url>
+                  <thumbnail_image>http://img.youtube.com/vi/llX04Y8UkeY/0.jpg</thumbnail_image>
+                  <time>3min 25secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>32.</serial>
+                  <lesson_name>How to Understand Climbing Terminology</lesson_name>
+                  <url>http://www.youtube.com/embed/nUJAI7CuRO0</url>
+                  <thumbnail_image>http://img.youtube.com/vi/nUJAI7CuRO0/0.jpg</thumbnail_image>
+                  <time>3min 17secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>33.</serial>
+                  <lesson_name>How to Use a Campus Board</lesson_name>
+                  <url>http://www.youtube.com/embed/_7l3OxQodF0</url>
+                  <thumbnail_image>http://img.youtube.com/vi/_7l3OxQodF0/0.jpg</thumbnail_image>
+                  <time>2min 59secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>34.</serial>
+                  <lesson_name>How to Use a Hangboard</lesson_name>
+                  <url>http://www.youtube.com/embed/q5HRGOepUzE</url>
+                  <thumbnail_image>http://img.youtube.com/vi/q5HRGOepUzE/0.jpg</thumbnail_image>
+                  <time>2min 23secs</time>
+              </lesson_info>
+              <lesson_info>
+                  <serial>35.</serial>
+                  <lesson_name>How to Rock Climb with Cliff Simanski</lesson_name>
+                  <url>http://www.youtube.com/embed/FiMYP3fslWU</url>
+                  <thumbnail_image>http://img.youtube.com/vi/FiMYP3fslWU/0.jpg</thumbnail_image>
+                  <time>3min 41secs</time>
+              </lesson_info>
+    </course>
+</courseware>
