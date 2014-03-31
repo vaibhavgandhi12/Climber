@@ -25,11 +25,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    _locationManager = [[CLLocationManager alloc] init];
-    _locationManager.desiredAccuracy = kCLLocationAccuracyBest;
-    _locationManager.delegate = self;
-    [_locationManager startUpdatingLocation];
-    _startLocation = nil;
+//    _locationManager = [[CLLocationManager alloc] init];
+//    _locationManager.desiredAccuracy = kCLLocationAccuracyBest;
+//    _locationManager.delegate = self;
+//    [_locationManager startUpdatingLocation];
+//    _startLocation = nil;
 }
 
 - (void)didReceiveMemoryWarning
@@ -45,49 +45,49 @@
    didUpdateToLocation:(CLLocation *)newLocation
           fromLocation:(CLLocation *)oldLocation
 {
-    NSString *currentLatitude = [[NSString alloc]
-                                 initWithFormat:@"%+.6f",
-                                 newLocation.coordinate.latitude];
-    _latitude.text = currentLatitude;
-    
-    NSString *currentLongitude = [[NSString alloc]
-                                  initWithFormat:@"%+.6f",
-                                  newLocation.coordinate.longitude];
-    _longitude.text = currentLongitude;
-    
-    NSString *currentHorizontalAccuracy =
-    [[NSString alloc]
-     initWithFormat:@"%+.6f",
-     newLocation.horizontalAccuracy];
-    _horizontalAccuracy.text = currentHorizontalAccuracy;
-    
-    NSString *currentAltitude = [[NSString alloc]
-                                 initWithFormat:@"%+.6f",
-                                 newLocation.altitude];
-    _altitude.text = currentAltitude;
-    
-    NSString *currentVerticalAccuracy =
-    [[NSString alloc]
-     initWithFormat:@"%+.6f",
-     newLocation.verticalAccuracy];
-    _verticalAccuracy.text = currentVerticalAccuracy;
-    
-    if (_startLocation == nil)
-        _startLocation = newLocation;
-    
-    CLLocationDistance distanceBetween = [newLocation
-                                          distanceFromLocation:_startLocation];
-    
-    NSString *tripString = [[NSString alloc]
-                            initWithFormat:@"%f",
-                            distanceBetween];
-    _distance.text = tripString;
+//    NSString *currentLatitude = [[NSString alloc]
+//                                 initWithFormat:@"%+.6f",
+//                                 newLocation.coordinate.latitude];
+//    _latitude.text = currentLatitude;
+//    
+//    NSString *currentLongitude = [[NSString alloc]
+//                                  initWithFormat:@"%+.6f",
+//                                  newLocation.coordinate.longitude];
+//    _longitude.text = currentLongitude;
+//    
+//    NSString *currentHorizontalAccuracy =
+//    [[NSString alloc]
+//     initWithFormat:@"%+.6f",
+//     newLocation.horizontalAccuracy];
+//    _horizontalAccuracy.text = currentHorizontalAccuracy;
+//    
+//    NSString *currentAltitude = [[NSString alloc]
+//                                 initWithFormat:@"%+.6f",
+//                                 newLocation.altitude];
+//    _altitude.text = currentAltitude;
+//    
+//    NSString *currentVerticalAccuracy =
+//    [[NSString alloc]
+//     initWithFormat:@"%+.6f",
+//     newLocation.verticalAccuracy];
+//    _verticalAccuracy.text = currentVerticalAccuracy;
+//    
+//    if (_startLocation == nil)
+//        _startLocation = newLocation;
+//    
+//    CLLocationDistance distanceBetween = [newLocation
+//                                          distanceFromLocation:_startLocation];
+//    
+//    NSString *tripString = [[NSString alloc]
+//                            initWithFormat:@"%f",
+//                            distanceBetween];
+//    _distance.text = tripString;
 }
 
 - (void)locationManager:(CLLocationManager *)manager didUpdateLocations:(NSArray *)locations
 {
-    CLLocation *location_updated = [locations lastObject];
-    NSLog(@"updated coordinate are %@",location_updated);
+//    CLLocation *location_updated = [locations lastObject];
+//    NSLog(@"updated coordinate are %@",location_updated);
 }
 
 @end

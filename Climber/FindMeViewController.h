@@ -11,9 +11,11 @@
 
 @interface FindMeViewController : UIViewController <CLLocationManagerDelegate>
 {
-    CLLocationManager *_locationManager;
-    CLLocation *_startLocation;
-    NSString *_latitude, *_longitude, *_altitude;;
+//    CLLocationManager *_locationManager;
+//    CLLocation *_startLocation;
+//    NSString *_latitude;
+//    NSString *_longitude;
+//    NSString *_altitude;
     
 }
 
