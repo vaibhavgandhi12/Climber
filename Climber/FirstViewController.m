@@ -25,7 +25,7 @@ int counter = 0;
     [super viewDidLoad];
 	//Do any additional setup after loading the view.
     
-    NSString *path = [[NSBundle mainBundle] pathForResource: @"Object" ofType: @"png"];
+    NSString *path = [[NSBundle mainBundle] pathForResource: @"object" ofType: @"png"];
     UIImage* image = [[UIImage alloc] initWithContentsOfFile: path];
     UIImageView *imageView = [[UIImageView alloc] initWithImage: image];
     imageView.center = CGPointMake(160, 0); //Setting the center of image

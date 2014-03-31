@@ -26,14 +26,13 @@
 		3F1FAFC9189EEC6D0033D56C /* AvenirLTPro-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFB9189EEC6D0033D56C /* AvenirLTPro-Light.ttf */; };
 		3F1FAFCA189EEC6D0033D56C /* AvenirLTPro-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFBA189EEC6D0033D56C /* AvenirLTPro-Medium.ttf */; };
 		3F1FAFCB189EEC6D0033D56C /* AvenirLTPro-Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F1FAFBB189EEC6D0033D56C /* AvenirLTPro-Roman.ttf */; };
-		3F457123189F049F009D5EE1 /* Object.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F457122189F049F009D5EE1 /* Object.png */; };
+		3F457123189F049F009D5EE1 /* object.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F457122189F049F009D5EE1 /* object.png */; };
 		3F457126189F06DF009D5EE1 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F457125189F06DF009D5EE1 /* FirstViewController.m */; };
 		3FE811E8189DB414007C5E62 /* AllClassesCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE811E7189DB414007C5E62 /* AllClassesCell.m */; };
 		3FE811EB189DBBB5007C5E62 /* XMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE811EA189DBBB5007C5E62 /* XMLParser.m */; };
 		3FE811EE189DBCD2007C5E62 /* AllCoursesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE811ED189DBCD2007C5E62 /* AllCoursesViewController.m */; };
 		3FE811F1189DC3F3007C5E62 /* Courses_Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE811F0189DC3F3007C5E62 /* Courses_Model.m */; };
-		3FF5672C189F3999009DD460 /* FindMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FF5672B189F3999009DD460 /* FindMeViewController.m */; };
-		3FF5672E189F39B9009DD460 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FF5672D189F39B9009DD460 /* CoreLocation.framework */; };
+		CDBB1319189F3D68004D505C /* team_pic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CDBB1318189F3D68004D505C /* team_pic.jpg */; };
 		CDFE4BE4189B1BFB00BF36B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4BE3189B1BFB00BF36B5 /* Foundation.framework */; };
 		CDFE4BE6189B1BFB00BF36B5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4BE5189B1BFB00BF36B5 /* CoreGraphics.framework */; };
 		CDFE4BE8189B1BFB00BF36B5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDFE4BE7189B1BFB00BF36B5 /* UIKit.framework */; };
@@ -82,7 +81,7 @@
 		3F1FAFB9189EEC6D0033D56C /* AvenirLTPro-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTPro-Light.ttf"; sourceTree = "<group>"; };
 		3F1FAFBA189EEC6D0033D56C /* AvenirLTPro-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTPro-Medium.ttf"; sourceTree = "<group>"; };
 		3F1FAFBB189EEC6D0033D56C /* AvenirLTPro-Roman.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTPro-Roman.ttf"; sourceTree = "<group>"; };
-		3F457122189F049F009D5EE1 /* Object.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Object.png; sourceTree = "<group>"; };
+		3F457122189F049F009D5EE1 /* object.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = object.png; sourceTree = "<group>"; };
 		3F457124189F06DF009D5EE1 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		3F457125189F06DF009D5EE1 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		3FE811E6189DB414007C5E62 /* AllClassesCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllClassesCell.h; sourceTree = "<group>"; };
@@ -93,9 +92,7 @@
 		3FE811ED189DBCD2007C5E62 /* AllCoursesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllCoursesViewController.m; sourceTree = "<group>"; };
 		3FE811EF189DC3F3007C5E62 /* Courses_Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Courses_Model.h; sourceTree = "<group>"; };
 		3FE811F0189DC3F3007C5E62 /* Courses_Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Courses_Model.m; sourceTree = "<group>"; };
-		3FF5672A189F3999009DD460 /* FindMeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FindMeViewController.h; sourceTree = "<group>"; };
-		3FF5672B189F3999009DD460 /* FindMeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FindMeViewController.m; sourceTree = "<group>"; };
-		3FF5672D189F39B9009DD460 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		CDBB1318189F3D68004D505C /* team_pic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = team_pic.jpg; sourceTree = "<group>"; };
 		CDFE4BE0189B1BFB00BF36B5 /* Climber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Climber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDFE4BE3189B1BFB00BF36B5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CDFE4BE5189B1BFB00BF36B5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -121,7 +118,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FF5672E189F39B9009DD460 /* CoreLocation.framework in Frameworks */,
 				1EDDCF38189EBF50004F6B3C /* MediaPlayer.framework in Frameworks */,
 				CDFE4BE6189B1BFB00BF36B5 /* CoreGraphics.framework in Frameworks */,
 				CDFE4BE8189B1BFB00BF36B5 /* UIKit.framework in Frameworks */,
@@ -168,7 +164,8 @@
 		CDFE4BD7189B1BFB00BF36B5 = {
 			isa = PBXGroup;
 			children = (
-				3F457122189F049F009D5EE1 /* Object.png */,
+				CDBB1318189F3D68004D505C /* team_pic.jpg */,
+				3F457122189F049F009D5EE1 /* object.png */,
 				3F1FAFCC189EF2540033D56C /* Fonts */,
 				CDFE4BE9189B1BFB00BF36B5 /* Climber */,
 				CDFE4C0B189B1BFC00BF36B5 /* ClimberTests */,
@@ -189,7 +186,6 @@
 		CDFE4BE2189B1BFB00BF36B5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3FF5672D189F39B9009DD460 /* CoreLocation.framework */,
 				1EDDCF37189EBF50004F6B3C /* MediaPlayer.framework */,
 				CDFE4BE3189B1BFB00BF36B5 /* Foundation.framework */,
 				CDFE4BE5189B1BFB00BF36B5 /* CoreGraphics.framework */,
@@ -219,8 +215,6 @@
 				3F457124189F06DF009D5EE1 /* FirstViewController.h */,
 				3F457125189F06DF009D5EE1 /* FirstViewController.m */,
 				CDFE4BF5189B1BFC00BF36B5 /* Main.storyboard */,
-				3FF5672A189F3999009DD460 /* FindMeViewController.h */,
-				3FF5672B189F3999009DD460 /* FindMeViewController.m */,
 				CDFE4BEA189B1BFB00BF36B5 /* Supporting Files */,
 				3FE811E9189DBBB5007C5E62 /* XMLParser.h */,
 				3FE811EA189DBBB5007C5E62 /* XMLParser.m */,
@@ -302,7 +296,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = RIT;
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = RIT;
 				TargetAttributes = {
 					CDFE4C03189B1BFC00BF36B5 = {
@@ -341,6 +335,7 @@
 				3F1FAFC0189EEC6D0033D56C /* AvenirLT-Light.svg in Resources */,
 				3F1FAFC1189EEC6D0033D56C /* AvenirLT-Light.woff in Resources */,
 				3F1FAFC2189EEC6D0033D56C /* AvenirLT-Medium.eot in Resources */,
+				CDBB1319189F3D68004D505C /* team_pic.jpg in Resources */,
 				3F1FAFC3189EEC6D0033D56C /* AvenirLT-Medium.svg in Resources */,
 				3F1FAFC4189EEC6D0033D56C /* AvenirLT-Medium.woff in Resources */,
 				3F1FAFC5189EEC6D0033D56C /* AvenirLT-Roman.eot in Resources */,
@@ -354,7 +349,7 @@
 				CDFE4BEE189B1BFB00BF36B5 /* InfoPlist.strings in Resources */,
 				CDFE4C1E189D90B300BF36B5 /* courseware_datasource.xml in Resources */,
 				CDFE4BF7189B1BFC00BF36B5 /* Main.storyboard in Resources */,
-				3F457123189F049F009D5EE1 /* Object.png in Resources */,
+				3F457123189F049F009D5EE1 /* object.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,7 +373,6 @@
 				3FE811EE189DBCD2007C5E62 /* AllCoursesViewController.m in Sources */,
 				1EDDCF36189EBB3A004F6B3C /* DetailedClassCell.m in Sources */,
 				CDFE4BF4189B1BFB00BF36B5 /* AppDelegate.m in Sources */,
-				3FF5672C189F3999009DD460 /* FindMeViewController.m in Sources */,
 				3F1377EE189DE29700D1427C /* AllClassesDetailedViewController.m in Sources */,
 				CDFE4BF0189B1BFB00BF36B5 /* main.m in Sources */,
 				3FE811E8189DB414007C5E62 /* AllClassesCell.m in Sources */,
@@ -436,6 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -474,6 +469,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -531,6 +527,7 @@
 		CDFE4C19189B1BFC00BF36B5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Climber.app/Climber";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -553,6 +550,7 @@
 		CDFE4C1A189B1BFC00BF36B5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Climber.app/Climber";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
